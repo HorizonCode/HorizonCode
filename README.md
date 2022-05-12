@@ -101,13 +101,12 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pm70ibwhgyewm2z69f7jgn1ok&cover_image=true&theme=default" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pm70ibwhgyewm2z69f7jgn1ok&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=pm70ibwhgyewm2z69f7jgn1ok&redirect=true" /></div>
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=HorizonCode&&style=flat-square" align="center" />
-</div>  
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pm70ibwhgyewm2z69f7jgn1ok&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" /></div>  
   
 
 <br/>  
