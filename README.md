@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm HorizonCode</h1>
 <h3 align="center">A Java Full Stack Developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=horizoncode&label=Profile%20views&color=0e75b6&style=flat" alt="horizoncode" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horizoncode" alt="horizoncode" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=horizoncode&label=Profile%20views&color=0e56b4&style=flat" alt="horizoncode" /> </p>
 
 <p align="left"> <a href="https://twitter.com/realhorizon" target="blank"><img src="https://img.shields.io/twitter/follow/realhorizon?logo=twitter&style=for-the-badge" alt="realhorizon" /></a> </p>
 
 - 🔭 I’m currently working on [Kitsu](https://kitsu.moe)
 
 - 🌱 I’m currently learning **NodeJS(Electron and stuff)**
+
+- 👯 My current Projects are **EZPPFarm and Kitsu**
+
+- 📫 How to reach me **admin@ez-pp.farm**
+
+- ⚡ Fun fact **I often start projects and dont finish them 🙄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horizoncode&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="horizoncode" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horizoncode&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="horizoncode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horizoncode&theme=dark" alt="horizoncode" /></p>
