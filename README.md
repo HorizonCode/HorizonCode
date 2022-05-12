@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://i.imgur.com/9w5Az4P.png" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Rishav, a full-stack java developer 👨‍💻 since 2014 🚀</div>  
+### <div align="center">I'm Horizon, a full-stack java developer 👨‍💻 since 2014 🚀</div>  
   
 
 - 🔭 I’m currently working on [Kitsu](https://kitsu.moe)  
