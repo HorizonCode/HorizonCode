@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS(Electron and stuff)**
 
-- 👯 My current Projects are **EZPPFarm and Kitsu**
+- 👯 My current Projects are **[EZPPFarm](https://ez-pp.farm) and [Kitsu](https://kitsu.moe)**
 
 - 📫 How to reach me **admin@ez-pp.farm**
 
