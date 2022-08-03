@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Kitsu](https://kitsu.moe)  
   
 
-- 🌱 I’m currently learning NodeJS  
+- 🌱 I’m currently learning Typescript  
   
 
 - ⚡ Fun fact: I often start new projects that i never finish 🙄  
