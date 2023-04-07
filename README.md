@@ -1,7 +1,7 @@
 ### <div align="center">I'm Horizon, a full-stack java developer 👨‍💻 since 2014 🚀</div>  
   
 
-- 🔭 I’m currently working on [Kitsu](https://kitsu.moe)  
+- 🔭 I’m currently working on [osu.direct](https://osu.direct)  
   
 
 - 🌱 I’m currently learning Typescript  
