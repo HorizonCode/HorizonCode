@@ -1,4 +1,4 @@
-### <div align="center">I'm Horizon, a full-stack java developer 👨‍💻 since 2014 🚀</div>  
+### <div align="center">I'm Horizon, a full-stack developer 👨‍💻 since 2014 🚀</div>  
   
 
 - 🔭 I’m currently working on [osu.direct](https://osu.direct)  
