@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [osu.direct](https://osu.direct)  
   
 
-- 🌱 I’m currently learning Typescript  
+- 🌱 I’m currently learning Typescript/Deno 
   
 
 - ⚡ Fun fact: I often start new projects that i never finish 🙄  
