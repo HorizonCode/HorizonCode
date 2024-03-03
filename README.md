@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [tazer](https://github.com/ezppfarm/tazer)  
   
 
-- 🌱 I’m currently learning Vite/Svelte 
+- 🌱 I’m currently learning SvelteKit
   
 
 - ⚡ Fun fact: I often start new projects that i never finish 🙄  
