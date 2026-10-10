@@ -1,53 +1,16 @@
-### <div align="center">I'm Horizon, a full-stack developer 👨‍💻 since 2014 🚀</div>  
-  
-
-- 🔭 I’m currently working on [tazer](https://github.com/ezppfarm/tazer)  
-  
-
-- 🌱 I’m currently learning SvelteKit
-  
-
-- ⚡ Fun fact: I often start new projects that i never finish 🙄  
-  
-
-<br/>  
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/HorizonCode" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/RealHorizon" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/HorizonCode88" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+<img src="assets/profile.svg" alt="HorizonCode: Quetzalcoatl, the feathered dragon" width="100%" />
+
+<br/>
+
+<sub>[**EZPPFarm**](https://ez-pp.farm) &nbsp;osu! private server &nbsp;&nbsp;·&nbsp;&nbsp; [**osu.direct**](https://osu.direct) &nbsp;osu! beatmap mirror</sub>
+
+<a href="https://horizonco.de"><img src="https://img.shields.io/badge/horizonco.de-0d1117?style=flat-square&logo=googlechrome&logoColor=2ec4b6" alt="Website" /></a>
+<a href="https://twitter.com/RealHorizon"><img src="https://img.shields.io/badge/@RealHorizon-0d1117?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://paypal.me/horizoncode"><img src="https://img.shields.io/badge/Support-0d1117?style=flat-square&logo=paypal&logoColor=ffd166" alt="PayPal" /></a>
+<a href="https://ko-fi.com/ezppfarm"><img src="https://img.shields.io/badge/EZPPFarm%20KoFi-0d1117?style=flat-square&logo=kofi&logoColor=ff6433" alt="EZPPFarm Ko-Fi" /></a>
+<a href="https://ko-fi.com/osudirect"><img src="https://img.shields.io/badge/osu.direct%20KoFi-0d1117?style=flat-square&logo=kofi&logoColor=ff6433" alt="osu.direct Ko-Fi" /></a>
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HorizonCode&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pm70ibwhgyewm2z69f7jgn1ok&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pm70ibwhgyewm2z69f7jgn1ok&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
-  </a>
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/horizoncode" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+</div>
