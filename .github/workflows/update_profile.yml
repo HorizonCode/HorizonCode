@@ -1,0 +1,46 @@
+name: Update Profile Card
+
+on:
+  schedule:
+    # Run every year on birthday (January 6th at 00:00 UTC)
+    - cron: '0 0 6 1 *'
+    # Run monthly on the 1st of each month as a heartbeat
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'tools/**'
+      - '.github/workflows/update_profile.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+
+      - name: Regenerate profile card
+        run: |
+          python3 tools/redraw_card.py
+
+      - name: Commit and push if changed
+        run: |
+          if [ -n "$(git status --porcelain assets/profile.svg)" ]; then
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add assets/profile.svg
+            git commit -m "chore(profile): update profile card [skip ci]"
+            git push
+          else
+            echo "Profile card is already up to date."
+          fi
