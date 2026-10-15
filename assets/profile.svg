@@ -137,7 +137,6 @@
 </g>
 </g>
 <text x="44" y="422" font-size="13" fill="#53b14f" clip-path="url(#typed)">horizon@dragon-den<tspan fill="#8b949e">:</tspan><tspan fill="#ff9f1c">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">fastfetch</tspan></text>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="6.8s" dur=".7s" fill="freeze"/><rect x="30" y="452" width="455" height="624" rx="10" fill="#ffffff" fill-opacity=".015" stroke="#3a424c" stroke-opacity=".8" stroke-dasharray="3 7"/></g>
 <g clip-path="url(#logoclip)" font-size="5.98">
 <text y="463.0"><tspan x="264.5" fill="#d0a090">#</tspan><tspan x="268.0" fill="#f0b090">%</tspan><tspan x="271.5" fill="#e0b090">#</tspan><tspan x="275.0" fill="#e0b080">#</tspan><tspan x="278.5 282.0 285.5" fill="#d0a080">*##</tspan><tspan x="289.0" fill="#c0a080">#</tspan></text>
 <text y="470.0"><tspan x="264.5" fill="#e0b080">%</tspan><tspan x="268.0" fill="#f0b090">#</tspan><tspan x="271.5" fill="#e0b080">#</tspan><tspan x="275.0" fill="#c09070">=</tspan><tspan x="278.5 282.0" fill="#f0c090">##</tspan><tspan x="285.5 289.0" fill="#f0b090">##</tspan><tspan x="292.5" fill="#e0b080">#</tspan><tspan x="296.0" fill="#c0a080">*</tspan></text>
