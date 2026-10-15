@@ -73,7 +73,7 @@ INFO_DATA = [
     ("4.40s", "Role", "Full-stack developer", "#e2e8f0"),
     ("4.60s", "Uptime", f"{age} years (since 1999)", "#e2e8f0"),
     ("4.80s", "Den", "Germany", "#e2e8f0"),
-    ("5.00s", "Stack", "TypeScript, Svelte, SvelteKit", "#e2e8f0"),
+    ("5.00s", "Stack", "SvelteKit, Node.js, Bun, Python, MySQL, PostgreSQL, Docker", "#e2e8f0"),
     ("5.20s", "Running", "EZPPFarm, osu.direct", "#e2e8f0"),
     ("5.40s", "Comfy with", "SvelteKit", "#e2e8f0"),
     ("5.60s", "Scene", "osu! tooling", "#e2e8f0"),
@@ -508,3 +508,46 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{
 SVG_FILE.write_text(svg, encoding="utf-8")
 ET.fromstring(svg)
 print(f"Successfully generated gothic card: {SVG_FILE} ({len(svg)} bytes), XML valid!")
+
+# ---------------------------------------------------------------- generate assets/footer.svg
+FOOTER_FILE = Path("assets/footer.svg")
+footer_svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 134" width="500" height="134" role="img" aria-label="Terminal session: echo and exit">
+{font_style}
+{text_style}
+<defs>
+  <linearGradient id="footerBg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#120622"/>
+    <stop offset="1" stop-color="#080210"/>
+  </linearGradient>
+</defs>
+
+<rect x="0.5" y="0.5" width="499" height="133" rx="12" fill="url(#footerBg)" stroke="#7c3aed" stroke-opacity="0.4" stroke-width="1.2"/>
+
+<!-- First Command: echo -->
+<text x="18" y="26" font-size="12.5">
+  <tspan fill="#7c3aed">╭─ </tspan><tspan fill="#4ade80" font-weight="700">🐱 horizon</tspan><tspan fill="#8b949e"> at </tspan><tspan fill="#c084fc">dragon-den</tspan><tspan fill="#8b949e"> in </tspan><tspan fill="#38bdf8" font-weight="700">📁 ~</tspan>
+</text>
+<text x="18" y="48" font-size="12.5">
+  <tspan fill="#7c3aed">╰─❯ </tspan><tspan fill="#f1f5f9">echo &quot;May your frames be high and your bugs be few. 🌹&quot;</tspan>
+</text>
+
+<!-- Command Output -->
+<text x="18" y="71" font-size="12.5" fill="#fbcfe8">May your frames be high and your bugs be few. 🌹</text>
+
+<!-- Second Command: exit -->
+<text x="18" y="95" font-size="12.5">
+  <tspan fill="#7c3aed">╭─ </tspan><tspan fill="#4ade80" font-weight="700">🐱 horizon</tspan><tspan fill="#8b949e"> at </tspan><tspan fill="#c084fc">dragon-den</tspan><tspan fill="#8b949e"> in </tspan><tspan fill="#38bdf8" font-weight="700">📁 ~</tspan>
+</text>
+<text x="18" y="117" font-size="12.5">
+  <tspan fill="#7c3aed">╰─❯ </tspan><tspan fill="#f1f5f9">exit</tspan>
+</text>
+<rect x="82" y="104" width="8" height="14" fill="#f1f5f9">
+  <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/>
+</rect>
+</svg>
+"""
+
+FOOTER_FILE.write_text(footer_svg, encoding="utf-8")
+ET.fromstring(footer_svg)
+print(f"Successfully generated gothic footer: {FOOTER_FILE} ({len(footer_svg)} bytes), XML valid!")
+

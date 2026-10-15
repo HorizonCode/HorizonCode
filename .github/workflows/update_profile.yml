@@ -35,12 +35,12 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          if [ -n "$(git status --porcelain assets/profile.svg)" ]; then
+          if [ -n "$(git status --porcelain assets/profile.svg assets/footer.svg)" ]; then
             git config --global user.name "github-actions[bot]"
             git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/profile.svg
-            git commit -m "chore(profile): update profile card [skip ci]"
+            git add assets/profile.svg assets/footer.svg
+            git commit -m "chore(profile): update profile card and footer [skip ci]"
             git push
           else
-            echo "Profile card is already up to date."
+            echo "Profile cards are already up to date."
           fi
