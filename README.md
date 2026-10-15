@@ -43,10 +43,10 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/HorizonCode">
-    <img src="https://github-readme-stats.vercel.app/api?username=HorizonCode&show_icons=true&count_private=true&bg_color=090212&title_color=c084fc&text_color=e2e8f0&icon_color=f43f5e&border_color=3b1d44&border_radius=8" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=HorizonCode&show_icons=true&count_private=true&bg_color=090212&title_color=c084fc&text_color=e2e8f0&icon_color=f43f5e&border_color=3b1d44&border_radius=8" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/HorizonCode">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonCode&layout=compact&hide=html&bg_color=090212&title_color=c084fc&text_color=e2e8f0&border_color=3b1d44&border_radius=8" height="175" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonCode&layout=compact&hide=html&langs_count=8&card_width=340&bg_color=090212&title_color=c084fc&text_color=e2e8f0&border_color=3b1d44&border_radius=8" alt="Top Languages" />
   </a>
 </p>
 
