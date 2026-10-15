@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.svg" alt="HorizonCode: Quetzalcoatl, the feathered dragon" width="100%" />
+<img src="assets/profile.svg" alt="HorizonCode: a cute dragon girl waving, drawn in ASCII" width="100%" />
 
 <br/>
 
