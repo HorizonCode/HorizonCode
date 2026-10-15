@@ -53,7 +53,7 @@
 <!-- Spotify Status -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pm70ibwhgyewm2z69f7jgn1ok&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pm70ibwhgyewm2z69f7jgn1ok&cover_image=true&theme=default&bar_color=c084fc&bar_color_cover=true" alt="Spotify Status" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pm70ibwhgyewm2z69f7jgn1ok&cover_image=true&theme=default&background_color=090412&bar_color=c084fc&bar_color_cover=false&border_radius=14" alt="Spotify Status" />
   </a>
 </p>
 
